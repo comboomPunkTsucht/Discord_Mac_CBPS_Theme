@@ -71,7 +71,7 @@
     --custom-font-code: "CaskaydiaCove Nerd Font";
 
     /* other */
-    --enable-blur: 0;
+    --enable-blur: 100;
 }
 
 .theme-dark,
