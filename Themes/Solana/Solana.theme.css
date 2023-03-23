@@ -20,7 +20,10 @@
 @import url(https://raw.githubusercontent.com/mshaugh/nerdfont-webfonts/master/build/nerdfont-webfonts.css);
 
 /*@import url(https://raw.githubusercontent.com/comboomPunkTsucht/Discord_Mac_CBPS_Theme/main/*.css);*/
-
+x-row {
+  text-rendering: optimizeLegibility;
+  font-variant-ligatures: normal;
+}
 :root {
     /* 
     bdeditor.dev/theme/solana
@@ -84,7 +87,7 @@
     --custom-font-display: "CaskaydiaCove Nerd Font";
     --custom-font-regular: "CaskaydiaCove Nerd Font";
     --custom-font-primary: "CaskaydiaCove Nerd Font";
-    --custom-font-code: "CaskaydiaCove Nerd Font Mono"; 
+    --custom-font-code: "CaskaydiaCove Nerd Font"; 
     /* other */
     --enable-blur: 1;
 }
