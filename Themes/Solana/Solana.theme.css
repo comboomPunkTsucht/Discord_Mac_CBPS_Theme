@@ -81,15 +81,10 @@
     --enable-floating-transparency: 1;
 
     /* font */
-    /*--custom-font-display: "CaskaydiaCove Nerd Font";
+    --custom-font-display: "CaskaydiaCove Nerd Font";
     --custom-font-regular: "CaskaydiaCove Nerd Font";
     --custom-font-primary: "CaskaydiaCove Nerd Font";
-    --custom-font-code: "CaskaydiaCove Nerd Font Mono";*/
-    --custom-font-display: "ProFont Nerd Font";
-    --custom-font-regular: "ProFont Nerd Font";
-    --custom-font-primary: "ProFont Nerd Font";
-    --custom-font-code: "ProFont Nerd Font";    
-
+    --custom-font-code: "CaskaydiaCove Nerd Font Mono"; 
     /* other */
     --enable-blur: 1;
 }
