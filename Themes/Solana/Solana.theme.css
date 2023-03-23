@@ -78,10 +78,10 @@
     --enable-floating-transparency: 1;
 
     /* font */
-    --custom-font-display: "";
-    --custom-font-regular: "";
-    --custom-font-primary: "";
-    --custom-font-code: "";
+    --custom-font-display: "CaskaydiaCove Nerd Font";
+    --custom-font-regular: "CaskaydiaCove Nerd Font";
+    --custom-font-primary: "CaskaydiaCove Nerd Font";
+    --custom-font-code: "CaskaydiaCove Nerd Font";
 
     /* other */
     --enable-blur: 1;
