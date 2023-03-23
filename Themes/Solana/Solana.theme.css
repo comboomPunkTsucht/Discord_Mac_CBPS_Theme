@@ -75,7 +75,7 @@
     --background-floating-blur: 20px;
     --floating-background-lightness: 0;
     --background-floating-opacity: 1;
-    --enable-floating-transparency: 1;
+    --enable-floating-transparency: 0;
 
     /* font */
     --custom-font-display: "CaskaydiaCove Nerd Font";
@@ -84,5 +84,5 @@
     --custom-font-code: "CaskaydiaCove Nerd Font";
 
     /* other */
-    --enable-blur: 100;
+    --enable-blur: 0;
 }
