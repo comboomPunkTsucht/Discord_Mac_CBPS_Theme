@@ -70,10 +70,10 @@
     --enable-floating-transparency: 1;
 
     /* font */
-    --custom-font-display: "CaskaydiaCove Nerd Font";
-    --custom-font-regular: "CaskaydiaCove Nerd Font";
-    --custom-font-primary: "CaskaydiaCove Nerd Font";
-    --custom-font-code: "CaskaydiaCove Nerd Font";
+    --custom-font-display: "SouceCode Nerd Font";
+    --custom-font-regular: "SouceCode Nerd Font";
+    --custom-font-primary: "SouceCode Nerd Font";
+    --custom-font-code: "SouceCode Nerd Font";
 
     /* other */
     --enable-blur: 1;
