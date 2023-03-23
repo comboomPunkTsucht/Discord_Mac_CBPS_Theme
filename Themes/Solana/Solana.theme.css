@@ -24,12 +24,12 @@
     */
 
     /* color control */
-    --accent-hue: 213;
+    --accent-hue: 120;
     --accent-saturation: 100%;
-    --accent-brightness: 50%;
-    --background-accent-hue: 213;
+    --accent-brightness: 100%;
+    --background-accent-hue: 0;
     --background-accent-saturation: 100%;
-    --background-accent-brightness: 50%;
+    --background-accent-brightness: 100%;
 
     /* background image */
     --background-image: initial;
@@ -84,5 +84,5 @@
     --custom-font-code: "CaskaydiaCove Nerd Font";
 
     /* other */
-    --enable-blur: 1;
+    --enable-blur: 0;
 }
