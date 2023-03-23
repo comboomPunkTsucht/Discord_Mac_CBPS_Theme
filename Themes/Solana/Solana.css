@@ -9,60 +9,64 @@
 @import url(https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap);
 
 /* user config */
-:root {
+    :root {
+    /* 
+    bdeditor.dev/theme/solana
+    is strongly recommended for customization 
+    */
+
     /* color control */
     --accent-hue: 120;
     --accent-saturation: 100%;
-    --accent-brightness: 15%;
+    --accent-brightness: 50%;
     --background-accent-hue: 0;
     --background-accent-saturation: 100%;
     --background-accent-brightness: 50%;
 
     /* background image */
-    --background-image: initial;
     --background-image-position: center;
-    --background-image-size: cover;
-    --background-image-blur: 0;
-    --background-overlay-opacity: 80%;
-    --background-overlay-color-lightness: 0;
-    --background-hue-shift-strength: 100%;
+    --background-image-size: auto;
+    --background-image-blur: 0px;
+    --background-overlay-opacity: 90%;
+    --background-overlay-color-lightness: -0.46;
+    --background-hue-shift-strength: 0%;
 
     /* window */
-    --window-background-image: initial;
+    --window-background-image: transparent;
     --window-background-image-position: center;
+    --window-background-image-size: cover;
     --window-background-image-attachment: fixed;
     --window-opacity: 100%;
-    --window-blur: 0;
-    --window-friends-blur: 0;
-    --window-margin: 24;
+    --window-blur: 50;
+    --window-friends-blur: 50;
+    --window-margin: 6;
     --window-margin-left: 0;
-    --window-border-radius: 10px;
-    --window-background-lightness: 0;
-    --window-accent-tint-strength: 5%;
+    --window-border-radius: 6px
+    --window-background-lightness: -0.5;
+    --window-accent-tint-strength: 0%;
 
     /* chat */
-    --chat-bubble: 0;
-    --chat-bubble-background-color: var(--background-primary);
+    --chat-bubble: 1;
     --chat-bubble-border-color: var(--background-primary-border-color);
     --text-link-hue: 212;
-    --chat-text-brightness: 0;
+    --chat-text-brightness: 1;
 
     /* dock */
     --home-icon: initial;
     --favorites-icon: initial;
-    --dock-blur: var(--window-blur);
-    --dock-border-radius: 0;
+    --dock-blur: 50; /* Blur intensity of the dock. */
+    --dock-border-radius: -0.64;
 
     /* sidebar */
-    --sidebar-width: 240px;
-    --members-width: 240px;
-    --sidebar-text-brightness: 0;
+    --sidebar-width: 200px;
+    --members-width: 200px;
+    --sidebar-text-brightness: 1;
 
     /* floating */
-    --background-floating-blur: 20px;
-    --floating-background-lightness: 0;
+    --background-floating-blur: 50px;
+    --floating-background-lightness: -0.52;
     --background-floating-opacity: 1;
-    --enable-floating-transparency: 100;
+    --enable-floating-transparency: 1;
 
     /* font */
     --custom-font-display: "CaskaydiaCove Nerd Font";
@@ -71,7 +75,7 @@
     --custom-font-code: "CaskaydiaCove Nerd Font";
 
     /* other */
-    --enable-blur: 100;
+    --enable-blur: 1;
 }
 
 .theme-dark,
