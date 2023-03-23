@@ -10,12 +10,12 @@
 */
 
 /* Source */
-@import url(https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/Solana.css);
+@import url(https://raw.githubusercontent.com/comboomPunkTsucht/Discord_Mac_CBPS_Theme/main/Themes/Solana/Solana.css);
 
 /* Optional */
-@import url(https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css);
-@import url(https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/addon/mac-titlebar.css);
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css);
+@import url(https://raw.githubusercontent.com/comboomPunkTsucht/Discord_Mac_CBPS_Theme/main/css/bdAddonMini.css);
+@import url(https://raw.githubusercontent.com/comboomPunkTsucht/Discord_Mac_CBPS_Theme/main/Themes/Solana/addon/mac-titlebar.css);
+@import url(https://raw.githubusercontent.com/comboomPunkTsucht/Discord_Mac_CBPS_Theme/main/Themes/EmojiReplace/base/Apple.css);
 
 :root {
     /* 
